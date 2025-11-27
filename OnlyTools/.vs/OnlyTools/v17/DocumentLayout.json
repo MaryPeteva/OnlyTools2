@@ -1,17 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools\\",
+  "WorkspaceRootPath": "H:\\onlyTools\\OnlyTools\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B71810B4-9C60-4AC8-8721-B89966F97BEA}|..\\OnlyTools.Core\\OnlyTools.Core.csproj|c:\\users\\user\\source\\repos\\finalproj\\onlytools.core\\services\\joblistingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D638BAFB-AE1A-4E06-94FD-37F361C6B137}|OnlyTools.csproj|c:\\users\\user\\source\\repos\\finalproj\\onlytools\\controllers\\joblistingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D638BAFB-AE1A-4E06-94FD-37F361C6B137}|OnlyTools.csproj|solutionrelative:controllers\\joblistingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D638BAFB-AE1A-4E06-94FD-37F361C6B137}|OnlyTools.csproj|c:\\users\\user\\source\\repos\\finalproj\\onlytools\\views\\joblisting\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D638BAFB-AE1A-4E06-94FD-37F361C6B137}|OnlyTools.csproj|solutionrelative:views\\joblisting\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D638BAFB-AE1A-4E06-94FD-37F361C6B137}|OnlyTools.csproj|h:\\onlytools\\onlytools\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|",
+      "RelativeMoniker": "D:0:0:{D638BAFB-AE1A-4E06-94FD-37F361C6B137}|OnlyTools.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,42 +29,20 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JobListingServices.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Core\\Services\\JobListingServices.cs",
-              "RelativeDocumentMoniker": "..\\OnlyTools.Core\\Services\\JobListingServices.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Core\\Services\\JobListingServices.cs",
-              "RelativeToolTip": "..\\OnlyTools.Core\\Services\\JobListingServices.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAuwFIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:14:50.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JobListingController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools\\Controllers\\JobListingController.cs",
-              "RelativeDocumentMoniker": "Controllers\\JobListingController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools\\Controllers\\JobListingController.cs",
-              "RelativeToolTip": "Controllers\\JobListingController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:44:17.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "All.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools\\Views\\JobListing\\All.cshtml",
-              "RelativeDocumentMoniker": "Views\\JobListing\\All.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools\\Views\\JobListing\\All.cshtml",
-              "RelativeToolTip": "Views\\JobListing\\All.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T23:44:07.766Z",
+              "Title": "README.md",
+              "DocumentMoniker": "H:\\onlyTools\\OnlyTools\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "H:\\onlyTools\\OnlyTools\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-27T19:10:51.612Z",
               "EditorCaption": ""
             }
           ]

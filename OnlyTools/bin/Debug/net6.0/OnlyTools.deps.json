@@ -2577,7 +2577,10 @@
           "OnlyTools.Infrastructure": "1.0.0"
         },
         "runtime": {
-          "OnlyTools.Core.dll": {}
+          "OnlyTools.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OnlyTools.Infrastructure/1.0.0": {
@@ -2589,7 +2592,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
         },
         "runtime": {
-          "OnlyTools.Infrastructure.dll": {}
+          "OnlyTools.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools\\OnlyTools.csproj": {}
+    "H:\\onlyTools\\OnlyTools\\OnlyTools.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Core\\OnlyTools.Core.csproj": {
+    "H:\\onlyTools\\OnlyTools.Core\\OnlyTools.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Core\\OnlyTools.Core.csproj",
+        "projectUniqueName": "H:\\onlyTools\\OnlyTools.Core\\OnlyTools.Core.csproj",
         "projectName": "OnlyTools.Core",
-        "projectPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Core\\OnlyTools.Core.csproj",
+        "projectPath": "H:\\onlyTools\\OnlyTools.Core\\OnlyTools.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Core\\obj\\",
+        "outputPath": "H:\\onlyTools\\OnlyTools.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj"
+              "H:\\onlyTools\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj": {
+                "projectPath": "H:\\onlyTools\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj"
               }
             }
           }
@@ -48,7 +48,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -67,15 +68,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.36, 6.0.36]"
             }
           ],
           "frameworkReferences": {
@@ -83,18 +84,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj": {
+    "H:\\onlyTools\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj",
+        "projectUniqueName": "H:\\onlyTools\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj",
         "projectName": "OnlyTools.Infrastructure",
-        "projectPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj",
+        "projectPath": "H:\\onlyTools\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Infrastructure\\obj\\",
+        "outputPath": "H:\\onlyTools\\OnlyTools.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -127,7 +128,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -180,15 +182,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.36, 6.0.36]"
             }
           ],
           "frameworkReferences": {
@@ -196,18 +198,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools\\OnlyTools.csproj": {
+    "H:\\onlyTools\\OnlyTools\\OnlyTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools\\OnlyTools.csproj",
+        "projectUniqueName": "H:\\onlyTools\\OnlyTools\\OnlyTools.csproj",
         "projectName": "OnlyTools",
-        "projectPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools\\OnlyTools.csproj",
+        "projectPath": "H:\\onlyTools\\OnlyTools\\OnlyTools.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools\\obj\\",
+        "outputPath": "H:\\onlyTools\\OnlyTools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -229,8 +231,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Core\\OnlyTools.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Core\\OnlyTools.Core.csproj"
+              "H:\\onlyTools\\OnlyTools.Core\\OnlyTools.Core.csproj": {
+                "projectPath": "H:\\onlyTools\\OnlyTools.Core\\OnlyTools.Core.csproj"
               }
             }
           }
@@ -244,7 +246,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -301,19 +304,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.36, 6.0.36]"
             }
           ],
           "frameworkReferences": {
@@ -324,7 +327,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     }

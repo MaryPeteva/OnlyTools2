@@ -10903,11 +10903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj",
+      "projectUniqueName": "H:\\onlyTools\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj",
       "projectName": "OnlyTools.Infrastructure",
-      "projectPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj",
+      "projectPath": "H:\\onlyTools\\OnlyTools.Infrastructure\\OnlyTools.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\FinalProj\\OnlyTools.Infrastructure\\obj\\",
+      "outputPath": "H:\\onlyTools\\OnlyTools.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10940,7 +10940,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0": {
@@ -10993,15 +10994,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.29, 6.0.29]"
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.29, 6.0.29]"
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.29, 6.0.29]"
+            "version": "[6.0.36, 6.0.36]"
           }
         ],
         "frameworkReferences": {
@@ -11009,7 +11010,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
       }
     }
   }

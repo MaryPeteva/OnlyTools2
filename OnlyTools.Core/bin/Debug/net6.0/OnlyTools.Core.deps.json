@@ -2528,7 +2528,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
         },
         "runtime": {
-          "OnlyTools.Infrastructure.dll": {}
+          "OnlyTools.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
